@@ -1,4 +1,4 @@
-### 我的主页：[JackFrost](www.fuzhufuzhu.com)
+### 我的主页：[JackFrost](http://www.fuzhufuzhu.com)
 ### 我的个人主页模板，已经优化过了，大家可以使用啦！！喜欢的就给个赞给个star咯，谢谢！
 ### 我的优化历程：全写在博客了 [我的主页优化](http://blog.csdn.net/Jack__Frost/article/details/53869779)
 #### 我们知道现在很多个人主页都是基于模板的二次开发的，本人作为一个非前端人员当然也是模板开发，
